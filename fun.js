@@ -1,3 +1,3 @@
 function hideLinks(){
-  document.getElementById("links").style.display = "none";
+  document.getElementById("Links").style.display = "none";
 }
