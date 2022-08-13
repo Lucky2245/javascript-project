@@ -1,1 +1,3 @@
-alert("Hello From Fun.js");
+function hideLinks(){
+  document.getElementById("links").style.display = "none";
+}
